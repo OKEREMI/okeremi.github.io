@@ -1,0 +1,3 @@
+# app-ads.txt for Globe Rush
+# Add the lines your ad network gives you (AppLovin: Account > app-ads.txt), one per line, e.g.
+# applovin.com, YOUR_PUBLISHER_ID, DIRECT, 
